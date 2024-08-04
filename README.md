@@ -103,6 +103,7 @@
   - **Frontend Development**: Completed certification in frontend development, focusing on modern web technologies and best practices.
   - **JavaScript**: Certified in advanced JavaScript programming, including ES6+ features and asynchronous programming.
   - **React.js**: Earned certification in React.js, covering hooks, state management, and performance optimization.
+  - **Download Certificate**: [Frontend Development Certificate](https://i.ibb.co/R05phKS/certificate.png)
 </p>
 
 <h3 align="left">Hobbies:</h3>
@@ -116,13 +117,6 @@
 <h3 align="left">Professional Summary:</h3>
 <p align="left">
   I am a passionate and dedicated frontend developer with a strong foundation in React.js and the MERN stack. With hands-on experience in building responsive and interactive web applications, I strive to deliver high-quality code and user-friendly designs. My journey in web development is driven by a constant desire to learn and explore new technologies, allowing me to adapt to the ever-evolving landscape of the tech industry. I thrive in collaborative environments and enjoy contributing to open source projects, enhancing both my skills and the community. My goal is to create impactful web solutions that provide seamless user experiences and drive innovation.
-</p>
-
-<h3 align="left">Certificates:</h3>
-<p align="left">
-  <a href="https://i.ibb.co/R05phKS/certificate.png" target="_blank">Frontend Development Certificate</a>
-  - [JavaScript Certificate](#)
-  - [React.js Certificate](#)
 </p>
 
 <h3 align="left">Resume:</h3>
