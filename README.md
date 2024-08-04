@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yeasin Miah</h1>
 <h3 align="center">Frontend Developer | React.js | Junior MERN Developer</h3>
-<img height="300"  src="https://i.ibb.co/R9t9Xty/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner.png" alt="img">
+<img height="200"  src="https://i.ibb.co/R9t9Xty/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner.png" alt="img">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinmiah1272001&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinmiah1272001" /> </p>
 
