@@ -47,13 +47,13 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=twahanur&theme=highcontrast&hide_border=false&include_all_commits=true&show_icons=true&locale=en&layout=compact" alt="twahanur" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=twahanur&theme=highcontrast&hide_border=false&include_all_commits=true&show_icons=true&locale=en" alt="twahanur" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasin1272001&theme=highcontrast&hide_border=false&include_all_commits=true&show_icons=true&locale=en&layout=compact" alt="yeasin" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=yeasinmiah1272001&theme=highcontrast&hide_border=false&include_all_commits=true&show_icons=true&locale=en" alt="yeasin" />
 </p>
 
 <br>
 
 ## 💻 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=twahanur&theme=highcontrast&hide_border=false&include_all_commits=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yeasinmiah1272001&theme=highcontrast&hide_border=false&include_all_commits=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <img align="center" alt="line separator" width="100%" src="/twahanurGithubLine.gif">
