@@ -43,9 +43,6 @@
 
 <img align="center" alt="line separator" width="100%" src="/twahanurGithubLine.gif">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/twahanur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
-
 <img align="center" alt="line separator" width="100%" src="/twahanurGithubLine.gif">
 
 ## 📊 GitHub Stats
