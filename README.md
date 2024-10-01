@@ -65,7 +65,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=twahanur&theme=highcontrast&hide_border=false&include_all_commits=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <img align="center" alt="line separator" width="100%" src="/twahanurGithubLine.gif">
-
-<h3 align="left">Memes</h3>
-
-<img src="https://rm.up.railway.app/" alt="some_memes" />
