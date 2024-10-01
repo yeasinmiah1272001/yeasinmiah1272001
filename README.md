@@ -1,29 +1,29 @@
 
 <img align="center" width="100%" height="250px" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="/twahanurGithubBG.gif">
-<h1 align="center">Hi 👋, I'm Twahanur Rahman</h1>
-<h3 align="center">........ I am a developer from anywhere who is passionate about work .........</h3>
+<h1 align="center">Hi 👋, I'm Yeasin Miah</h1>
+<h3 align="center">........ I am a frontend developer from anywhere who is passionate about work .........</h3>
 <img align="right" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="/twahanurGithub.gif">
 
 
 ## 💫 About Me
 
-- 🔭 I'm currently pursuing a **BSc. in Computer Science and Engineering**.
+- 🔭 I'm currently pursuing a **Diploma in Computer Science and Engineering**.
  
 - 🌱 I'm learning [**web development 2.0**](https://web.programming-hero.com/) through the programming-hero platform.
  
-- 💬 Ask me about **JavaScript, C++**.
+- 💬 Ask me about **Javascript, React, Nextjs**.
  
-- 📫 You can reach me at [Gmail](mailto:tweahanur.rahman@gmail.com).
+- 📫 You can reach me at [Gmail](mailto:yeasinmiah1272001@gmail.com).
  
-- 📄 Explore my experiences: [Resume](https://drive.google.com/file/d/1RSs2JNWXTD3972rCdTYtjOm6gmY-CL-F/view?usp=drive_link)
+- 📄 Explore my experiences: [Resume](https://yeasinportfolio.vercel.app)
  
 - ⚡ Fun fact: I laugh at the most serious moments!
 <img align="center" alt="....................................................................................'}" width="100%" src="/twahanurGithubLine.gif">
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://codepen.io/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="twahanur" height="30" width="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twahanur" height="30" width="40" /></a>
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="twahanur" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="twahanur" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fb.com/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="twahanur" height="30" width="40" /></a>
