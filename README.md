@@ -64,7 +64,20 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeasinmiah1272001&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yeasinmiah1272001&theme=radical" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
 </table>
+
+---
+
+## 🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeasinmiah1272001&color=brightgreen" alt="Profile Views" />
+</p>
 
 ---
 
