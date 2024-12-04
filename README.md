@@ -49,15 +49,22 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasinmiah1272001&layout=compact&theme=radical)
-</p>
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeasinmiah1272001&show_icons=true&theme=radical)
-</p>
-<p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeasinmiah1272001&theme=radical)
-</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yeasinmiah1272001&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasinmiah1272001&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeasinmiah1272001&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
