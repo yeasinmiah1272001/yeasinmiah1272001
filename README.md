@@ -77,5 +77,22 @@
 
 ---
 
+## 📈 Contribution Graph
+
+![Yeasin Miah's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yeasinmiah1272001&theme=radical)
+
+---
+
+## 🧐 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#42](https://github.com/yeasinmiah1272001/ProjectName/pull/42) in [ProjectName](https://github.com/yeasinmiah1272001/ProjectName)
+2. 🎉 Merged PR [#15](https://github.com/yeasinmiah1272001/ProjectName/pull/15) in [ProjectName](https://github.com/yeasinmiah1272001/ProjectName)
+3. 💬 Commented on [#10](https://github.com/yeasinmiah1272001/ProjectName/issues/10) in [ProjectName](https://github.com/yeasinmiah1272001/ProjectName)
+4. 🔒 Closed issue [#9](https://github.com/yeasinmiah1272001/ProjectName/issues/9) in [ProjectName](https://github.com/yeasinmiah1272001/ProjectName)
+<!--END_SECTION:activity-->
+
+---
+
 ## ⚡ Fun Projects
 Check out some of my exciting projects on my [GitHub profile](https://github.com/yeasinmiah1272001).
