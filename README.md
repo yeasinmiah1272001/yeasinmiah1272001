@@ -46,5 +46,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
 </p>
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasinmiah1272001&layout=compact&theme=radical)
+</p>
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeasinmiah1272001&show_icons=true&theme=radical)
+</p>
+<p align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeasinmiah1272001&theme=radical)
+</p>
 
+---
+
+## ⚡ Fun Projects
+Check out some of my exciting projects on my [GitHub profile](https://github.com/yeasinmiah1272001).
