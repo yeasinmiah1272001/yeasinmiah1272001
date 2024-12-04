@@ -46,17 +46,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
 </p>
 
----
 
-## 📊 GitHub Stats 
-<p align="center">  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorjsdivs&theme=radical&hide_border=true&include_all_commits=true&layout=compact" alt="Top Languages" />  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=noorjsdivs&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
-</p>
 
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=noorjsdivs&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
