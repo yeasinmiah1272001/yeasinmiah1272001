@@ -96,3 +96,35 @@
 
 ## ⚡ Fun Projects
 Check out some of my exciting projects on my [GitHub profile](https://github.com/yeasinmiah1272001).
+
+---
+
+## 📝 Coding Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Lines%20of%20Code%20in%202023-15%2C500%2B-lightgreen" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/Contribution%20Streak-750%2B%20Days-yellowgreen" alt="Contribution Streak" />
+</p>
+
+---
+
+## 📚 Blog and Articles
+<p align="center">
+  <a href="https://yeasinmiah.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Blog-lightblue" alt="Blog" height="30" />
+  </a>
+  <a href="https://dev.to/yeasinmiah" target="_blank">
+    <img src="https://img.shields.io/badge/Articles%20on%20Dev.to-orange" alt="Dev.to" height="30" />
+  </a>
+</p>
+
+---
+
+## 🚀 Top Repositories
+<p align="center">
+  <a href="https://github.com/yeasinmiah1272001/YourRepoName" target="_blank">
+    <img src="https://img.shields.io/badge/Project%20Name%20Repo%201-blue" alt="Top Repo 1" height="30" />
+  </a>
+  <a href="https://github.com/yeasinmiah1272001/YourRepoName" target="_blank">
+    <img src="https://img.shields.io/badge/Project%20Name%20Repo%202-green" alt="Top Repo 2" height="30" />
+  </a>
+</p>
