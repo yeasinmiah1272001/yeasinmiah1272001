@@ -59,17 +59,13 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasinmiah1272001&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeasinmiah1272001&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yeasinmiah1272001&theme=radical" alt="GitHub Activity Graph" />
-    </td>
-  </tr>
 </table>
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yeasinmiah1272001&theme=radical&row=1&column=3&no-frame=true&margin-w=15)
 
 ---
 
