@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="250px" alt="Coding GIF" src="/twahanurGithubBG.gif">  
+<img align="center" width="100%" height="250px" alt="Coding GIF" src="https://i.ibb.co.com/G7XfmNQ/banner.png">  
 
 <h1 align="center">Hi 👋, I'm Yeasin Miah</h1> 
 <h3 align="center">Frontend Developer | Passionate About Crafting Intuitive User Interfaces</h3>  
