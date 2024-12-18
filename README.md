@@ -79,7 +79,8 @@
 
 ## 📈 Contribution Graph
 
-![Yeasin Miah's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yeasinmiah1272001&theme=radical)
+[![Yeasin Miah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeasinmiah1272001&theme=react-dark)](https://github.com/yeasinmiah1272001/github-readme-activity-graph)
+
 
 ---
 
