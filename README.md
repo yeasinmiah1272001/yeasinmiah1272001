@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="250px" alt="img" src="https://i.ibb.co.com/G7XfmNQ/banner.png">  
+<img src="https://i.ibb.co.com/G7XfmNQ/banner.png" alt="Banner Image" width="100%" height="250px">
 
 <h1 align="center">Hi 👋, I'm Yeasin Miah</h1> 
 <h3 align="center">Frontend Developer | Passionate About Crafting Intuitive User Interfaces</h3>  
