@@ -1,4 +1,25 @@
-<img align="center" width="100%" height="250px" alt="Coding GIF" src="/twahanurGithubBG.gif">  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 50%; padding-right: 20px;">
+    <h1 align="center">Hi 👋, I'm Yeasin Miah</h1>
+    <h3 align="center">Frontend Developer | Passionate About Crafting Intuitive User Interfaces</h3>
+
+    <div>
+      <h2>💫 About Me</h2>
+      <ul>
+        <li>🔭 <strong>Currently Pursuing:</strong> Diploma in Computer Science and Engineering</li>
+        <li>🌱 <strong>Learning:</strong> <a href="https://web.programming-hero.com/">Web Development 2.0</a> on Programming Hero</li>
+        <li>💬 <strong>Ask Me About:</strong> JavaScript, React, Next.js</li>
+        <li>📫 <strong>Reach Me At:</strong> <a href="mailto:yeasinmiah1272001@gmail.com">Gmail</a></li>
+        <li>📄 <strong>Explore My Work:</strong> <a href="https://yeasinportfolio.vercel.app">Resume</a></li>
+        <li>⚡ <strong>Fun Fact:</strong> I laugh at the most serious moments!</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="width: 50%; text-align: center;">
+    <img align="right" alt="Coding GIF" width="80%" src="https://i.ibb.co.com/SR9XLKP/formal.png">
+  </div>
+</div>
 
 <h1 align="center">Hi 👋, I'm Yeasin Miah</h1> 
 <h3 align="center">Frontend Developer | Passionate About Crafting Intuitive User Interfaces</h3>  
