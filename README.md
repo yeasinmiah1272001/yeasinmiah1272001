@@ -1,4 +1,4 @@
-<img src="/banner.png" alt="Banner Image" width="100%" height="350px">
+<img src="/banner.png" alt="Banner Image" width="100%" height="365px">
 
 <h1 align="center">Hi 👋, I'm Yeasin Miah</h1> 
 <h3 align="center">Frontend Developer | Passionate About Crafting Intuitive User Interfaces</h3>
